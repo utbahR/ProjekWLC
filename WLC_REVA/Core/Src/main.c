@@ -13,6 +13,9 @@
   * in the root directory of this software component.
   * If no LICENSE file comes with this software, it is provided AS-IS.
   *
+  * Author: BenRabuan
+  * Progress: 090725 Update knowledge
+  *
   ******************************************************************************
   */
 /* USER CODE END Header */
